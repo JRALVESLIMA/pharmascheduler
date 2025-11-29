@@ -21,6 +21,7 @@ Ele permite cadastrar, editar, excluir e visualizar agendamentos de forma práti
 ✅ Interface simples e intuitiva
 
 📁 Estrutura do Projeto
+````bash
 pharmascheduler/
 │
 ├── lib/
@@ -32,24 +33,28 @@ pharmascheduler/
 ├── assets/                 # Ícones e recursos visuais
 ├── pubspec.yaml            # Dependências do projeto
 └── README.md
-
-
+````
 
 🚀 Como Rodar o Projeto
 Pré-requisitos
 - Flutter SDK 3.0+
 - Android Studio ou VS Code com extensão Flutter
 - Emulador Android ou dispositivo físico conectado
+
   Passo a passo
-- Clone o repositório:
+1. Clone o repositório:
+````bash
   git clone git@github.com:JRALVESLIMA/pharmascheduler.git
   cd pharmascheduler
-- Instale as dependências:
+````
+2. Instale as dependências:
+````bash
   flutter pub get
-- Execute o projeto:
+````
+3. Execute o projeto:
+````bash
   flutter run
-
-
+````
 
 🧪 Testes
 - Testes unitários em desenvolvimento para validação de serviços e modelos.
@@ -57,7 +62,7 @@ Pré-requisitos
 
 👨‍💼 Autor
 JRALVESLIMA – Desenvolvedor em transição de carreira, apaixonado por tecnologia e aprendizado contínuo.
-🔗 LinkedIn  GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/-junior-a-lima) | [GitHub](https://github.com/JRALVESLIMA)
 
 ⚠️ Importante
 Este projeto foi criado com fins educacionais e para portfólio.
